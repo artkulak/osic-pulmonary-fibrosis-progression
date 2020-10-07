@@ -26,6 +26,6 @@ Below I will attach links to my final submission notebooks, along with Medium an
 
 [Bronze zone very simple solution](https://www.kaggle.com/artkulak/simple-logreg)
 
-[Kaggle writeup]()
+[Kaggle writeup](https://www.kaggle.com/c/osic-pulmonary-fibrosis-progression/discussion/189346)
 
 [Medium writeup](https://medium.com/@artkulakov/how-i-achieved-the-1st-place-in-kaggle-osic-pulmonary-fibrosis-progression-competition-e410962c4edc)
