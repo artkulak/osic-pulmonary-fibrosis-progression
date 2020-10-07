@@ -22,10 +22,10 @@ Speaking about my final solution, here is what I have done to achieve this score
 
 Below I will attach links to my final submission notebooks, along with Medium and Kaggle writeups.
 
-[1st Place notebook]()
+[1st Place notebook](https://www.kaggle.com/artkulak/inference-45-55-600-epochs-tuned-effnet-b5-30-ep)
 
-[Bronze zone very simple solution]()
+[Bronze zone very simple solution](https://www.kaggle.com/artkulak/simple-logreg)
 
 [Kaggle writeup]()
 
-[Medium writeup]()
+[Medium writeup](https://medium.com/@artkulakov/how-i-achieved-the-1st-place-in-kaggle-osic-pulmonary-fibrosis-progression-competition-e410962c4edc)
