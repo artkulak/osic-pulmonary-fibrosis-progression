@@ -14,9 +14,9 @@ Speaking about my final solution, here is what I have done to achieve this score
 
 ## How to run
 
-`effnet_b5_training_30_epochs.ipynb` - contains training pipeline for the best EfficientNet b5 model
-`inference-45-55-600-epochs-tuned-effnet-b5-30-ep.ipynb` - contains inference part for the kernel with the highest lb score
-`simple-logreg.ipynb` - contains naive approach which turned out to be in the bronze zone
+`effnet_b5_training_30_epochs.ipynb` - contains training pipeline for the best EfficientNet b5 model <br>
+`inference-45-55-600-epochs-tuned-effnet-b5-30-ep.ipynb` - contains inference part for the kernel with the highest lb score <br>
+`simple-logreg.ipynb` - contains naive approach which turned out to be in the bronze zone <br>
 
 ## Final words
 
